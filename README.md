@@ -57,12 +57,8 @@ Since these microposts are tweets, for legal reasons, we will not be able to rel
 Instead these tweets will be represented by their pertaining ids.
 For the sake of a better accessibility on the part of the reviewers, we provided the full text tweets in this submission.
 
-# license
-This dataset is free to use for research purposes.
-If you use it for your research, please acknowledge this software by citing Wiegand et al. (2018). 
-(Full bibliographic information, see reference below.)
-
-If you intend to use this dataset for commercial purposes, please contact the owner of this resource (see contact information).
+# attribution
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/lexicon-of-abusive-words/blob/master/LICENSE).
 
 
 # acknowledgments
